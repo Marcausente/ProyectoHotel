@@ -7,9 +7,7 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-/**
- * Clase principal de la aplicación de reserva de hotel
- */
+
 public class HotelApplication extends Application {
     @Override
     public void start(Stage stage) throws IOException {

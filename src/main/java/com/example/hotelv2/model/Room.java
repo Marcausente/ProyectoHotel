@@ -1,8 +1,6 @@
 package com.example.hotelv2.model;
 
-/**
- * Clase que representa una habitación de hotel
- */
+
 public class Room {
     private String id;
     private RoomType type;

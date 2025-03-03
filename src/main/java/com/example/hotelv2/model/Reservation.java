@@ -2,9 +2,7 @@ package com.example.hotelv2.model;
 
 import java.time.LocalDate;
 
-/**
- * Clase que representa una reserva de habitación
- */
+
 public class Reservation {
     private String id;
     private Room room;
