@@ -22,25 +22,25 @@ public class HotelService {
     private void initializeRooms() {
         // Habitaciones Single
         rooms.add(new Room("S101", RoomType.SINGLE, 80.0, true, 
-                "Habitación individual con vistas al jardín", "/com/example/hotelv2/images/single.jpg"));
+                "Habitación individual con vistas al jardín", "/com/example/hotelv2/images/single.png"));
         rooms.add(new Room("S102", RoomType.SINGLE, 85.0, true, 
-                "Habitación individual con vistas a la ciudad", "/com/example/hotelv2/images/single.jpg"));
+                "Habitación individual con vistas a la ciudad", "/com/example/hotelv2/images/single.png"));
         rooms.add(new Room("S103", RoomType.SINGLE, 80.0, true, 
-                "Habitación individual con baño completo", "/com/example/hotelv2/images/single.jpg"));
+                "Habitación individual con baño completo", "/com/example/hotelv2/images/single.png"));
         
         // Habitaciones Double
         rooms.add(new Room("D201", RoomType.DOUBLE, 120.0, true, 
-                "Habitación doble con cama king size", "/com/example/hotelv2/images/double.jpg"));
+                "Habitación doble con cama king size", "/com/example/hotelv2/images/double.png"));
         rooms.add(new Room("D202", RoomType.DOUBLE, 125.0, true, 
-                "Habitación doble con vistas al mar", "/com/example/hotelv2/images/double.jpg"));
+                "Habitación doble con vistas al mar", "/com/example/hotelv2/images/double.png"));
         rooms.add(new Room("D203", RoomType.DOUBLE, 130.0, true, 
-                "Habitación doble con balcón", "/com/example/hotelv2/images/double.jpg"));
+                "Habitación doble con balcón", "/com/example/hotelv2/images/double.png"));
         
         // Habitaciones Twin
         rooms.add(new Room("T301", RoomType.TWIN, 110.0, true, 
-                "Habitación twin con dos camas individuales", "/com/example/hotelv2/images/twin.jpg"));
+                "Habitación twin con dos camas individuales", "/com/example/hotelv2/images/twin.png"));
         rooms.add(new Room("T302", RoomType.TWIN, 115.0, true, 
-                "Habitación twin con vistas a la montaña", "/com/example/hotelv2/images/twin.jpg"));
+                "Habitación twin con vistas a la montaña", "/com/example/hotelv2/images/twin.png"));
         
         // Suites
         rooms.add(new Room("S401", RoomType.SUITE, 200.0, true, 

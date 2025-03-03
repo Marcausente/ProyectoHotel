@@ -133,7 +133,7 @@
             <padding>
                 <Insets top="10" right="20" bottom="10" left="20"/>
             </padding>
-            <Label text="© 2025 Sistema de Reservas de Hotel - Todos los derechos reservados" styleClass="footer-text"/>
+            <Label text="© 2025 MarcausenteDev - Todos los derechos reservados" styleClass="footer-text"/>
         </HBox>
     </bottom>
 </BorderPane> 
